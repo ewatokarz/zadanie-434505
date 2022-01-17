@@ -1,0 +1,19 @@
+
+
+
+section {
+    margin-top: 30px;
+	width: 280px;
+	height: 600px;
+	background: #f5f5dd;
+}
+
+.square {
+    margin-top: 20px;
+	margin-left: 80px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    flex-direction: column;
+    }
+
