@@ -1,6 +1,3 @@
-
-
-
 section {
     margin-top: 30px;
 	width: 280px;
@@ -15,5 +12,20 @@ section {
     height: 100px;
     background-color: black;
     flex-direction: column;
-    }
+}
 
+#one {
+    opacity: 0,8;
+}
+
+#two {
+    opacity: 0,6;
+}
+
+#three {
+    opacity: 0,4;
+}
+
+#four {
+    opacity: 0,2;
+}
