@@ -11,21 +11,20 @@ section {
     width: 100px;
     height: 100px;
     background-color: black;
-    flex-direction: column;
 }
 
 #one {
-    opacity: 0,8;
+    opacity: 0.8;
 }
 
 #two {
-    opacity: 0,6;
+    opacity: 0.6;
 }
 
 #three {
-    opacity: 0,4;
+    opacity: 0.4;
 }
 
 #four {
-    opacity: 0,2;
+    opacity: 0.2;
 }
